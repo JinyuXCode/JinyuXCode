@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6E6,ACB6E5&height=180&section=header&text=JinyuXCode&fontSize=40&fontColor=fff&animation=twinkling" />
 </p>
 
-## 🌸 关于我 | About Me
+## 🤯 关于我 | About Me
 
 - 🎓 在读学生，专注前端开发  
   Student focusing on Front-end Development
