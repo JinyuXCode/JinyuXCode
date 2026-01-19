@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 像素风标题 -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Player:%20JinyuXCode&fontSize=50&fontAlign=50&fontAlignY=50&desc=Loading...&descAlign=50&descAlignY=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Player:%20JinyuXCode&fontSize=50&fontAlign=50&fontAlignY=50&desc=Loading...&descAlign=50&descAlignY=80&animation=fadeIn" width="100%" />
 </div>
 
 <h3 align="center">🎮 角色档案 | Character Profile</h3>
