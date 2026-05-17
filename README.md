@@ -41,11 +41,6 @@
 
 ### 📊 贡献统计 / Github Stats
 
-<div align="center">
-  <!-- 使用了更稳定的备用节点，并优化了布局 -->
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=JinyuXCode&show_icons=true&theme=react&hide_border=true&title_color=00b4d8&icon_color=00b4d8" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=JinyuXCode&layout=compact&theme=react&hide_border=true&title_color=00b4d8" width="45%" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinyuXCode&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="95%" />
