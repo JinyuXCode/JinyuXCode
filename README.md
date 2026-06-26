@@ -1,55 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=JinyuXCode&fontSize=70&animation=fadeIn" width="100%" />
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=JinyuXCode&label=Profile%20Views&color=00b4d8&style=flat-square" alt="Views" />
-  </p>
-
-  ### ⚡ Frontend Developer | Expanding the React Ecosystem
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+JinyuX+%F0%9F%91%8B;Frontend+Dev+%E2%86%92+Going+Full-Stack;Vue+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Go" alt="Typing SVG" />
 </div>
 
----
+<br/>
 
-### 🧩 关于我 / About Me
+```go
+package main
 
-- 🛡️ **专注领域**：主攻 **Vue 3** 生态，目前正在深度探索 **React 19** 与跨端开发。
-- 🛠️ **效率工具**：AI 辅助编程深度实践者 (Cursor + Claude Code)。
-- 🎨 **审美倾向**：偏爱 UnoCSS / TailwindCSS 这种原子化、高性能的方案。
-- 📍 **坐标**：中国 · 郑州
+type Developer struct {
+    Name     string
+    Role     string
+    Location string
+    Current  []string
+    Learning string
+    Goal     string
+}
 
----
+func main() {
+    me := Developer{
+        Name:     "JinyuX",
+        Role:     "Frontend Engineer",
+        Location: "Zhengzhou, China 🇨🇳",
+        Current:  []string{"Vue 3", "TypeScript", "React"},
+        Learning: "Go",
+        Goal:     "Becoming a Full-Stack Developer 🚀",
+    }
+    me.KeepShipping()
+}
+```
 
-### 🛠 技能清单 / Tech Stack
+<br/>
 
-#### 🗡 已装备 (Proficient)
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/UnoCSS-333333?style=for-the-badge&logo=unocss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
-</p>
+## 🧭 关于我 / About Me
 
-#### 🧪 实验室 (Learning / Exploring)
-<p align="left">
-  <img src="https://img.shields.io/badge/React_19-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-</p>
+> 一名前端工程师，正在向全栈进发。  
+> A frontend engineer on the road to full-stack.
 
----
+- 🎯 **当前主线** — 深耕 `Vue 3` + `TypeScript`，同时活跃在 `React` 生态。
+- 🐹 **进行中** — 正在学习 **Go**，补齐后端能力，目标是独立交付完整应用。
+- 🤖 **工作流** — AI 辅助编程的深度实践者（Cursor + Claude Code）。
+- 📍 **坐标** — 中国 · 郑州
 
-### 📊 贡献统计 / Github Stats
+<br/>
 
+## 🛠 技术栈 / Tech Stack
+
+**Frontend — 主力**
+
+![Vue](https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=FFD62E)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?style=flat-square&logo=unocss&logoColor=white)
+
+**Backend — 学习中**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+
+<br/>
+
+## 🌱 学习路线 / Roadmap
+
+```text
+Frontend  ████████████████████  扎实
+TypeScript ██████████████████░░  熟练
+React      ██████████████░░░░░░  进阶中
+Go         ██████░░░░░░░░░░░░░░  入门 → 持续学习
+Full-Stack ████░░░░░░░░░░░░░░░░  目标
+```
+
+<br/>
+
+## 📊 GitHub 数据 / Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinyuXCode&theme=transparent&hide_border=true&stroke=00b4d8&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" width="95%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JinyuXCode&show_icons=true&hide_border=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=0d1117" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinyuXCode&layout=compact&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=0d1117" />
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JinyuXCode&theme=transparent&hide_border=true&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" width="85%" />
+</div>
+
+<br/>
 
 <div align="center">
-  <i>"Society is like a ship, and everyone must be prepared to steer it."</i>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00b4d8&height=2&section=footer" width="100%"/>
+  <sub>「保持构建，持续交付。」 · Keep shipping.</sub>
 </div>
