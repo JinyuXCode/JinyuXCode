@@ -54,17 +54,17 @@ func (dev *Developer) Whoami(w http.ResponseWriter, r *http.Request) {
 
 ```text
    ┌─ CLIENT ─────────────────────────────────────┐
-   │  Vue 3 · TypeScript · React · Vite · UnoCSS   │   ███████████  主力 / primary
+   │  Vue 3 · TypeScript · React · Vite · UnoCSS   │   [██████████]  主力 / primary
    └───────────────────────────────────────────────┘
                         │  HTTP / JSON
                         ▼
    ┌─ EDGE & TOOLING ─────────────────────────────┐
-   │  Node.js · Git · Cursor · Claude Code         │   ███████░░░░  日常 / daily
+   │  Node.js · Git · Cursor · Claude Code         │   [███████   ]  日常 / daily
    └───────────────────────────────────────────────┘
                         │  learning…
                         ▼
    ┌─ SERVER ─────────────────────────────────────┐
-   │  Go (net/http → services → deploy)            │   ████░░░░░░░  扩展中 / expanding
+   │  Go (net/http → services → deploy)            │   [████      ]  扩展中 / expanding
    └───────────────────────────────────────────────┘
 ```
 
@@ -94,11 +94,11 @@ func (dev *Developer) Whoami(w http.ResponseWriter, r *http.Request) {
 ```text
  stage          progress                    state
  ─────────────────────────────────────────────────────────
- frontend       ████████████████████  100%  ✓ passed
- typescript     ██████████████████░░   90%  ✓ passed
- react          ██████████████░░░░░░   70%  ⟳ running
- go             ██████░░░░░░░░░░░░░░   30%  ⟳ running
- full-stack     ████░░░░░░░░░░░░░░░░   20%  ⧗ queued  ← target
+ frontend       [████████████████████]  100%  ✓ passed
+ typescript     [██████████████████  ]   90%  ✓ passed
+ react          [██████████████      ]   70%  ⟳ running
+ go             [██████              ]   30%  ⟳ running
+ full-stack     [████                ]   20%  ⧗ queued  ← target
 ```
 
 📦 **Artifacts** — 路线与进度都已落盘，可点开追踪：
