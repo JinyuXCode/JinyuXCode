@@ -8,10 +8,10 @@
 
 - [ ] 理解 `go mod init`、`go mod tidy`、`go get`。
 - [ ] 能按 package 拆分代码。
-- [ ] 能设计简单 struct。
-- [ ] 能写 method。
-- [ ] 能用 interface 抽象依赖。
-- [ ] 能返回和包装 error。
+- [x] 能设计简单 struct。
+- [x] 能写 method。
+- [x] 能用 interface 抽象依赖。
+- [x] 能返回和包装 error。
 - [ ] 能读写 JSON 文件。
 - [ ] 能写基础单元测试。
 
