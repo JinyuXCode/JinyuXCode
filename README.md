@@ -78,37 +78,20 @@
 
 ## Roadmap
 
-这套路线面向“前端转 Go 全栈”。它不是知识点堆叠，而是按学习曲线拆成阶段、任务和项目。
+这套路线面向“前端转 Go 全栈”。它不是知识点堆叠，而是按学习曲线拆成里程碑，围绕一个持续演进的项目推进。
 
 ```text
-Go project basics
-  -> HTTP API
+Read AI-written code
   -> Gin service layering
   -> Database modeling
   -> Auth and permission
-  -> Full-stack CMS
-  -> Cache / upload / async jobs
+  -> RBAC and admin
+  -> Cache / rate limit
   -> Docker / deployment
   -> Business system project
 ```
 
-| Start Here | Purpose |
-| --- | --- |
-| [前端转 Go 全栈学习路线图](./frontend-to-go-fullstack-roadmap.md) | 总入口和阅读顺序 |
-| [学习曲线与能力目标](./fullstack-roadmap/00-learning-curve.md) | 明确每一阶段为什么这样排 |
-| [AI 协作学习工作流](./fullstack-roadmap/01-ai-workflow.md) | 让 AI 生成方案、代码和 review |
-| [12 周执行计划](./fullstack-roadmap/02-12-week-plan.md) | 每周目标、任务、交付物 |
-| [阶段任务清单](./fullstack-roadmap/03-stage-task-lists.md) | 可勾选的学习任务 |
-| [审查清单与验收标准](./fullstack-roadmap/08-review-checklists.md) | 检查需求、API、数据库、权限和代码质量 |
-
-## Project Track
-
-| Project | What It Trains | Link |
-| --- | --- | --- |
-| CLI Todo | Go basics, errors, tests | [Open](./fullstack-roadmap/04-project-cli-todo.md) |
-| User Center API | HTTP, Gin, layering, database, auth | [Open](./fullstack-roadmap/05-project-user-center.md) |
-| CMS | Full-stack integration, permission, upload, cache, deploy | [Open](./fullstack-roadmap/06-project-cms.md) |
-| Business System | State transitions, transactions, permission matrix, concurrency | [Open](./fullstack-roadmap/07-project-business-system.md) |
+学习计划与项目代码在独立的私有仓库中维护。
 
 ## Operating Notes
 
